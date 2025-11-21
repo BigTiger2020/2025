@@ -6,3 +6,7 @@ Use a low-privileged user
 ![image](https://github.com/BigTiger2020/2025/blob/main/ScreenShot_2025-11-21_144314_859.png)
 Sending packets and writing time-based injection statements successfully delayed the connection by more than 5 seconds.
 ![image](https://github.com/BigTiger2020/2025/blob/main/ScreenShot_2025-11-21_143731_823.png)
+Use a low-privileged user
+![image](https://github.com/BigTiger2020/2025/blob/main/ScreenShot_2025-11-21_150746_253.png)
+Sending packets and writing time-based injection statements successfully delayed the connection by more than 5 seconds.
+![image](https://github.com/BigTiger2020/2025/blob/main/ScreenShot_2025-11-21_150708_521.png)
